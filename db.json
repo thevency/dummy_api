@@ -1,5 +1,4 @@
 {
-  "status": "success",
   "data": [
     {
       "id": 1,
@@ -15,6 +14,5 @@
       "employee_age": 63,
       "profile_image": ""
     }
-  ],
-  "message": "Successfully! All records has been fetched."
+  ]
 }
